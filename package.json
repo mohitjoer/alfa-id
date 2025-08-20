@@ -1,6 +1,6 @@
 {
   "name": "alfa-id",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Generate short random IDs (optionally unique) for JS & TS",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
