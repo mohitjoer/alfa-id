@@ -1,6 +1,6 @@
 {
   "name": "alfa-id",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate short random IDs (optionally unique) for JS & TS",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -12,7 +12,9 @@
       "require": "./dist/index.js"
     }
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "engines": {
     "node": ">=14.0.0"
   },
@@ -20,7 +22,15 @@
     "build": "tsup",
     "prepublishOnly": "npm run build"
   },
-  "keywords": ["id", "generator", "shortid", "uuid", "typescript", "random", "unique"],
+  "keywords": [
+    "id",
+    "generator",
+    "shortid",
+    "uuid",
+    "typescript",
+    "random",
+    "unique"
+  ],
   "author": "Mohit Joe R",
   "license": "MIT"
 }
