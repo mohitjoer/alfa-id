@@ -183,7 +183,7 @@ Benchmarks on Node.js v18 (M1 MacBook Pro):
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request on [https://github.com/mohitjoer/alfa-id](https://github.com/mohitjoer/alfa-id).
 
 ## 📄 License
 
